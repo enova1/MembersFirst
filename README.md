@@ -3,7 +3,7 @@
 ## Findings
 - The provided URL data.com returns **404**.  
 - Tested in both original and new code using **.NET Fiddle** and **Visual Studio 2022**.  
-- Assumption: Without proper authentication, the Salesforce URL will not respond successfully.  
+- Assumption: Without proper authentication, the URL will not respond successfully.  
 
 ## Changes
 The 404 response from the data.com URL appears valid, so assumptions were made based on the DTO's.
