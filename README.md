@@ -6,9 +6,7 @@
 - Assumption: Without proper authentication, the Salesforce URL will not respond successfully.  
 
 ## Changes
-Initially converted the project to **.NET 8**, but rolled back.  
-The 404 is from the Salesforce URL, not the .NET version.  
-
+The 404 response from the data.com URL appears valid, so assumptions were made based on the DTO's.
 Updated the original **.NET 6** code for clarity and efficiency with the following improvements:
 
 1. Fixed async calls.  
